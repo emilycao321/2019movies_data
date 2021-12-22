@@ -47,6 +47,12 @@ h3 {
     line-height: 1.75rem;
     text-align: center;
 }
+
+.repo_link {
+  font-size: 1.2rem;
+  color:rgb(156, 0, 0);
+  font-weight: 700;
+}
 /* flipcard */
 
   
