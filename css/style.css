@@ -186,6 +186,13 @@ h3 {
   top: 130%;
 }
 
+.advisory {
+  margin-top: 3rem;
+  font-size: .8rem;
+  text-align: center;
+  font-style: italic;
+}
+
 /* The dots/bullets/indicators */
 .scroll_dots {
     margin-top: 30%;
@@ -282,7 +289,6 @@ footer p {
   .scroll_dots {
       margin-top: 8%;
   }
-
 }
 
 @media screen and (min-width: 1400px){
