@@ -53,6 +53,11 @@ h3 {
   color:rgb(156, 0, 0);
   font-weight: 700;
 }
+
+a:link, a:visited {
+  font-weight: 700;
+  color:rgb(156, 0, 0);
+}
 /* flipcard */
 
   
