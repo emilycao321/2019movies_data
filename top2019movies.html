@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://kit.fontawesome.com/1b0ab40f14.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/html5reset.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap" rel="stylesheet">
+    <title>Top 2019 Movies Visualization</title>
+</head>	
+<body>
+    <main>
+    <div class = "top_portion">
+      <h1>Top 2019 Movies</h1>
+      <div class = "top3movies">
+            <div class="flip-card2" tabindex="0">
+              <div class="flip-card-inner">
+                <div class="flip-card-back">
+                  <h2>#2<br><br>The Lion King</h2> 
+                </div>
+                <div class="flip-card-front">
+                  <img src="img/lionking.jpg" alt="The Lion King" />
+                </div>
+              </div>
+            </div>
+      
+            <div class="flip-card1" tabindex="0">
+              <div class="flip-card-inner">
+                <div class="flip-card-back">
+                  <h2>#1<br><br>Avengers: The Endgame</h2> 
+                </div>
+                <div class="flip-card-front">
+                  <img src="img/avengers_endgame.jpg" alt="Avengers: The Endgame" />
+                </div>
+              </div>
+            </div>
+      
+            <div class="flip-card3" tabindex="0">
+              <div class="flip-card-inner">
+                <div class="flip-card-back">
+                  <h2>#3<br><br>Frozen II</h2> 
+                </div>
+                <div class="flip-card-front">
+                  <img src="img/frozen2.jpeg" alt="Frozen II" />
+                </div>
+              </div>
+            </div>
+      </div>
+    </div>
+    <div class = "content">
+        <h3>Analysis of Top 2019 Movies</h3>
+        <p class = "context">With the OMDB API and Twitter API, data was gathered and put into a database. Using the database, various calculations for different movies. <br><br> Below are some of the graphs or visualizations to help picture the difference between movies.</p>
+        <!-- Slideshow container -->
+<div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+      <div class="numbertext">1 / 6</div>
+      <img src="img/graph1.png" style="width:100%">
+      <div class="text">Caption Text</div>
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext">2 / 6</div>
+      <img src="img/graph2.png" style="width:100%">
+      <div class="text">Caption Two</div>
+    </div>
+  
+    <div class="mySlides fade">
+      <div class="numbertext">3 / 6</div>
+      <img src="img/graph3.png" style="width:100%">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext">4 / 6</div>
+        <img src="img/graph4.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+
+      <div class="mySlides fade">
+        <div class="numbertext">5 / 6</div>
+        <img src="img/graph5.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+
+      <div class="mySlides fade">
+        <div class="numbertext">6 / 6</div>
+        <img src="img/graph6.png" style="width:100%">
+        <div class="text">Caption Three</div>
+      </div>
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  <br>
+  
+  <!-- The dots/circles -->
+  <div class="scroll_dots">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+  </div>
+    </div>
+    </main>
+    <footer>
+      <p>&copy; Emily Cao 2022</p>
+    </footer>
+    <script src="js/javascript.js"></script>
+  </body>
+</html>
