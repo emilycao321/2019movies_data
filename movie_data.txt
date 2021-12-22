@@ -1,0 +1,13 @@
+Average Grossing of All the Movie Reported in the Top Grossing Movies of 2019
+=====================================================
+
+The average gross of all the movies from the Top Grossing Movies of 2019 is $37409795.53
+
+Top Five Ticket Price from the Top Grossing Movies of 2019
+======================================================
+
+1. From the Top Grossing Movies of 2019, "Les MisÃ©rables - The Staged…" price per ticket is $9.160187266690041
+2. From the Top Grossing Movies of 2019, "Widows" price per ticket is $9.160155101440752
+3. From the Top Grossing Movies of 2019, "Shadow" price per ticket is $9.160154602951511
+4. From the Top Grossing Movies of 2019, "Dear Comrade" price per ticket is $9.160152335137303
+5. From the Top Grossing Movies of 2019, "CatVideoFest" price per ticket is $9.160143940867535

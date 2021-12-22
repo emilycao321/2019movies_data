@@ -1,0 +1,13 @@
+Average Runtime of the Top 300 Grossing Movies Reported in the Top Grossing Movies of 2019
+=====================================================
+
+The average runtime of all the movies from the Top Grossing Movies of 2019 is 112.98 mins.
+
+Top Five Gross Per Minute From the Top 300 Grossing Movies Reported in the Top Grossing Movies of 2019
+======================================================
+
+1. From the Top Grossing Movies of 2019, "Avengers: Endgame" gross per 1 minute runtime is $4742392.26519337
+2. From the Top Grossing Movies of 2019, "The Lion King" gross per 1 minute runtime is $4607102.059322034
+3. From the Top Grossing Movies of 2019, "Frozen II" gross per 1 minute runtime is $4373199.349514564
+4. From the Top Grossing Movies of 2019, "Toy Story 4" gross per 1 minute runtime is $4340380.08
+5. From the Top Grossing Movies of 2019, "Captain Marvel" gross per 1 minute runtime is $3470161.2926829266

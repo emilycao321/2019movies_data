@@ -1,0 +1,611 @@
+Average Followers of a Twitter User Based on the Movie They Tweet About
+=======================================================================
+
+The average number of followers of a Twitter user tweeting about Avengers: Endgame is 1204.01
+
+The average number of followers of a Twitter user tweeting about The Lion King is 2338.6
+
+The average number of followers of a Twitter user tweeting about Frozen II is 2589.42
+
+The average number of followers of a Twitter user tweeting about Toy Story 4 is 1455.73
+
+The average number of followers of a Twitter user tweeting about Captain Marvel is 10842.46
+
+The movie Star Wars: The Rise of Skyw… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Spider-Man: Far From Home is 10053.55
+
+The average number of followers of a Twitter user tweeting about Aladdin is 731.18
+
+The average number of followers of a Twitter user tweeting about Joker is 1176.56
+
+The average number of followers of a Twitter user tweeting about It: Chapter Two is 2574.67
+
+The average number of followers of a Twitter user tweeting about Jumanji: The Next Level is 2005.82
+
+The average number of followers of a Twitter user tweeting about Us is 1445.07
+
+The movie Fast & Furious Presents: Ho… did not have any mentions on Twitter.
+
+The movie John Wick: Chapter 3 â Para… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about How to Train Your Dragon: T… is 1890.25
+
+The average number of followers of a Twitter user tweeting about The Secret Life of Pets 2 is 10477.25
+
+The movie PokÃ©mon: Detective Pikachu did not have any mentions on Twitter.
+
+The movie Once Upon a Timeâ¦in Hollywo… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Shazam! is 1133.74
+
+The average number of followers of a Twitter user tweeting about Aquaman is 14188.62
+
+The average number of followers of a Twitter user tweeting about Knives Out is 2985.16
+
+The average number of followers of a Twitter user tweeting about Dumbo is 16615.29
+
+The average number of followers of a Twitter user tweeting about Maleficent: Mistress of Evil is 1114.62
+
+The average number of followers of a Twitter user tweeting about Glass is 6468.02
+
+The average number of followers of a Twitter user tweeting about Godzilla: King of the Monsters is 3020.69
+
+The average number of followers of a Twitter user tweeting about Ford v. Ferrari is 1942.1
+
+The average number of followers of a Twitter user tweeting about The Upside is 2697.85
+
+The movie The LEGO Movie 2: The Secon… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Hustlers is 8628.43
+
+The average number of followers of a Twitter user tweeting about The Addams Family is 4441.86
+
+The average number of followers of a Twitter user tweeting about Downton Abbey is 2632.19
+
+The average number of followers of a Twitter user tweeting about Rocketman is 4665.979166666667
+
+The average number of followers of a Twitter user tweeting about Alita: Battle Angel is 3764.11
+
+The average number of followers of a Twitter user tweeting about Good Boys is 1816.0119047619048
+
+The average number of followers of a Twitter user tweeting about Men in Black: International is 1592.8051948051948
+
+The average number of followers of a Twitter user tweeting about Annabelle Comes Home is 1072.42
+
+The average number of followers of a Twitter user tweeting about Yesterday is 2047.19
+
+The movie Tyler Perryâs A Madea Famil… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Zombieland: Double Tap is 866.1666666666666
+
+The average number of followers of a Twitter user tweeting about Little Women is 1847.57
+
+The average number of followers of a Twitter user tweeting about Angel Has Fallen is 828.8615384615384
+
+The movie Scary Stories to Tell in th… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Dark Phoenix is 6077.23
+
+The average number of followers of a Twitter user tweeting about Terminator: Dark Fate is 25544.46
+
+The average number of followers of a Twitter user tweeting about Abominable is 1426.53
+
+The average number of followers of a Twitter user tweeting about Dora and the Lost City of Gold is 8768.081967213115
+
+The movie A Beautiful Day in the Neig… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Midway is 1876.0
+
+The average number of followers of a Twitter user tweeting about Spider-Man: Into The Spider… is 3332.95
+
+The average number of followers of a Twitter user tweeting about Bumblebee is 8488.06
+
+The average number of followers of a Twitter user tweeting about The Curse of La Llorona is 1039.3
+
+The average number of followers of a Twitter user tweeting about Pet Sematary is 1157.89
+
+The average number of followers of a Twitter user tweeting about What Men Want is 1095.5
+
+The average number of followers of a Twitter user tweeting about Green Book is 2006.1
+
+The average number of followers of a Twitter user tweeting about Ad Astra is 1170.35
+
+The movie Isnât it Romantic did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Gemini Man is 1600.06
+
+The average number of followers of a Twitter user tweeting about Spies in Disguise is 688.43
+
+The average number of followers of a Twitter user tweeting about MA is 1189.61
+
+The average number of followers of a Twitter user tweeting about Five Feet Apart is 540.07
+
+The average number of followers of a Twitter user tweeting about Wonder Park is 1325.72
+
+The average number of followers of a Twitter user tweeting about Rambo: Last Blood is 2603.0
+
+The average number of followers of a Twitter user tweeting about Playing with Fire is 5404.71
+
+The average number of followers of a Twitter user tweeting about Harriet is 813.79
+
+The movie A Dogâs Way Home did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about The Angry Birds Movie 2 is 29536.53
+
+The average number of followers of a Twitter user tweeting about Little is 2474.0
+
+The average number of followers of a Twitter user tweeting about Queen & Slim is 2519.06
+
+The average number of followers of a Twitter user tweeting about Breakthrough is 15920.16
+
+The average number of followers of a Twitter user tweeting about The Mule is 1945.03
+
+The average number of followers of a Twitter user tweeting about Crawl is 2336.6632653061224
+
+The average number of followers of a Twitter user tweeting about Escape Room is 5324.72
+
+The average number of followers of a Twitter user tweeting about Uncut Gems is 2491.38
+
+The average number of followers of a Twitter user tweeting about The Hustle is 1343.53
+
+The average number of followers of a Twitter user tweeting about The Intruder is 1048.79
+
+The average number of followers of a Twitter user tweeting about Last Christmas is 1914.52
+
+The average number of followers of a Twitter user tweeting about Overcomer is 1148.9830508474577
+
+The average number of followers of a Twitter user tweeting about Mary Poppins Returns is 7367.86
+
+The average number of followers of a Twitter user tweeting about Cold Pursuit is 1701.97
+
+The average number of followers of a Twitter user tweeting about Doctor Sleep is 32689.72
+
+The average number of followers of a Twitter user tweeting about Dragon Ball Super: Broly is 1136.75
+
+The average number of followers of a Twitter user tweeting about Long Shot is 3699.97
+
+The movie Childâs Play did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Ready or Not is 8285.37
+
+The average number of followers of a Twitter user tweeting about 21 Bridges is 6571.49
+
+The average number of followers of a Twitter user tweeting about Happy Death Day 2U is 3632.6923076923076
+
+The average number of followers of a Twitter user tweeting about Midsommar is 1529.43
+
+The average number of followers of a Twitter user tweeting about Bohemian Rhapsody is 63465.76829268293
+
+The average number of followers of a Twitter user tweeting about The Art of Racing in the Rain is 1735.96
+
+The average number of followers of a Twitter user tweeting about Countdown is 1437.69
+
+The average number of followers of a Twitter user tweeting about Bombshell is 1430.29
+
+The average number of followers of a Twitter user tweeting about Judy is 2701.34
+
+The average number of followers of a Twitter user tweeting about Parasite is 4290.2
+
+The average number of followers of a Twitter user tweeting about Fighting With My Family is 1111.85
+
+The average number of followers of a Twitter user tweeting about On the Basis of Sex is 17838.52
+
+The movie A Dogâs Journey did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Booksmart is 14576.56
+
+The average number of followers of a Twitter user tweeting about Stuber is 4378.97
+
+The average number of followers of a Twitter user tweeting about 47 Meters Down: Uncaged is 1521.3703703703704
+
+The average number of followers of a Twitter user tweeting about Black and Blue is 1739.29
+
+The average number of followers of a Twitter user tweeting about Hellboy is 2192.3285714285716
+
+The average number of followers of a Twitter user tweeting about Jojo Rabbit is 1144.91
+
+The average number of followers of a Twitter user tweeting about Shaft is 2871.430107526882
+
+The average number of followers of a Twitter user tweeting about The Peanut Butter Falcon is 1775.050505050505
+
+The average number of followers of a Twitter user tweeting about UglyDolls is 647.75
+
+The average number of followers of a Twitter user tweeting about Cats is 1247.77
+
+The average number of followers of a Twitter user tweeting about Unplanned is 28362.88
+
+The average number of followers of a Twitter user tweeting about The Favourite is 1698.91
+
+The average number of followers of a Twitter user tweeting about Vice is 1633.89
+
+The average number of followers of a Twitter user tweeting about Richard Jewell is 6157.58
+
+The movie Charlieâs Angels did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about The Farewell is 5640.92
+
+The average number of followers of a Twitter user tweeting about BrightBurn is 1024.21
+
+The average number of followers of a Twitter user tweeting about The Good Liar is 2037.35
+
+The average number of followers of a Twitter user tweeting about The Kid Who Would Be King is 2676.978260869565
+
+The average number of followers of a Twitter user tweeting about Missing Link is 179410.29787234042
+
+The average number of followers of a Twitter user tweeting about Late Night is 2173.5204081632655
+
+The average number of followers of a Twitter user tweeting about Miss Bala is 1564.08
+
+The average number of followers of a Twitter user tweeting about The Prodigy is 1133.79
+
+The average number of followers of a Twitter user tweeting about A Star is Born is 1285.78
+
+The average number of followers of a Twitter user tweeting about Ralph Breaks The Internet is 967.72
+
+The average number of followers of a Twitter user tweeting about Poms is 1936.17
+
+The average number of followers of a Twitter user tweeting about They Shall Not Grow Old is 1807.97
+
+The average number of followers of a Twitter user tweeting about The Kitchen is 1242.8
+
+The average number of followers of a Twitter user tweeting about After is 2220.01
+
+The average number of followers of a Twitter user tweeting about Blinded by the Light is 1806.23
+
+The average number of followers of a Twitter user tweeting about The Grudge is 1508.12
+
+The average number of followers of a Twitter user tweeting about The Lighthouse is 3020.03
+
+The average number of followers of a Twitter user tweeting about Dark Waters is 3278.23
+
+The average number of followers of a Twitter user tweeting about Greta is 15062.88
+
+The average number of followers of a Twitter user tweeting about If Beale Street Could Talk is 5382.28
+
+The average number of followers of a Twitter user tweeting about The Best of Enemies is 4071.79
+
+The average number of followers of a Twitter user tweeting about Black Christmas is 1197.81
+
+The average number of followers of a Twitter user tweeting about Hotel Mumbai is 755.7391304347826
+
+The average number of followers of a Twitter user tweeting about Motherless Brooklyn is 7133.902777777777
+
+The average number of followers of a Twitter user tweeting about No Manches Frida 2 is 497.84375
+
+The movie Whereâd You Go Bernadette did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Apollo 11 is 3645.65
+
+The average number of followers of a Twitter user tweeting about Serenity is 2372.43
+
+The average number of followers of a Twitter user tweeting about Anna is 993.05
+
+The average number of followers of a Twitter user tweeting about Penguins is 37309.96
+
+The average number of followers of a Twitter user tweeting about Brittany Runs a Marathon is 1761.2571428571428
+
+The movie The Dead Donât Die did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Mary Queen of Scots is 3995.89
+
+The average number of followers of a Twitter user tweeting about Jexi is 906.09
+
+The average number of followers of a Twitter user tweeting about Second Act is 6288.1
+
+The average number of followers of a Twitter user tweeting about Run the Race is 6116.58
+
+The average number of followers of a Twitter user tweeting about Free Solo is 3311.431818181818
+
+The movie The Current War: Directorâs… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Captive State is 1732.84
+
+The average number of followers of a Twitter user tweeting about The Wandering Earth is 1676.37
+
+The average number of followers of a Twitter user tweeting about Arctic Dogs is 1011.56
+
+The average number of followers of a Twitter user tweeting about Gloria Bell is 50731.482142857145
+
+The average number of followers of a Twitter user tweeting about The Mustang is 2719.25
+
+The average number of followers of a Twitter user tweeting about The Goldfinch is 1478.53
+
+The average number of followers of a Twitter user tweeting about Stan & Ollie is 7846.72
+
+The movie Donât Let Go did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about The Sun is Also a Star is 1394.73
+
+The average number of followers of a Twitter user tweeting about Bring the Soul: The Movie is 956.4
+
+The average number of followers of a Twitter user tweeting about Pavarotti is 1497.37
+
+The average number of followers of a Twitter user tweeting about Tolkien is 1606.9893617021276
+
+The movie The Last Black Man in San F… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Amazing Grace is 4337.4
+
+The average number of followers of a Twitter user tweeting about Brian Banks is 10181.157142857142
+
+The average number of followers of a Twitter user tweeting about The Biggest Little Farm is 3184.86
+
+The movie Dr. Seussâ The Grinch did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Cold War is 1691.51
+
+The movie Linda Ronstadt: The Sound o… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Gully Boy is 1975.73
+
+The average number of followers of a Twitter user tweeting about Uri: The Surgical Strike is 2423.5185185185187
+
+The average number of followers of a Twitter user tweeting about Replicas is 2783.04
+
+The average number of followers of a Twitter user tweeting about Pain & Glory is 1828.0
+
+The average number of followers of a Twitter user tweeting about Ne Zha is 4571.53
+
+The average number of followers of a Twitter user tweeting about Mission Mangal is 8093.29
+
+The average number of followers of a Twitter user tweeting about War is 2797.95
+
+The average number of followers of a Twitter user tweeting about 2019 Oscar Shorts is 1987.5
+
+The average number of followers of a Twitter user tweeting about The Beach Bum is 11357.641975308641
+
+The average number of followers of a Twitter user tweeting about Echo in the Canyon is 2849.057142857143
+
+The average number of followers of a Twitter user tweeting about Jay and Silent Bob Reboot is 1252.59375
+
+The average number of followers of a Twitter user tweeting about Maiden is 5218.98
+
+The average number of followers of a Twitter user tweeting about Honey Boy is 4195.81
+
+The average number of followers of a Twitter user tweeting about Friends 25th: The One With … is 667.5714285714286
+
+The average number of followers of a Twitter user tweeting about IP Man: The Finale is 896.0
+
+The average number of followers of a Twitter user tweeting about Fantastic Beasts: The Crime… is 536.0
+
+The average number of followers of a Twitter user tweeting about Kalank is 1320.8041237113403
+
+The average number of followers of a Twitter user tweeting about Bharat is 1026.18
+
+The average number of followers of a Twitter user tweeting about Everybody Knows is 1049.12
+
+The average number of followers of a Twitter user tweeting about Tod@s Caen is 2049.529411764706
+
+The average number of followers of a Twitter user tweeting about Saaho is 2657.18
+
+The average number of followers of a Twitter user tweeting about Instant Family is 2251.87
+
+The average number of followers of a Twitter user tweeting about The Art of Self-Defense is 3659.16
+
+The average number of followers of a Twitter user tweeting about Arctic is 2385.81
+
+The average number of followers of a Twitter user tweeting about Welcome to Marwen is 1826.2222222222222
+
+The average number of followers of a Twitter user tweeting about My People, My Country is 1558.69
+
+The average number of followers of a Twitter user tweeting about Promare is 273.1162790697674
+
+The average number of followers of a Twitter user tweeting about Super 30 is 3603.75
+
+The average number of followers of a Twitter user tweeting about Holmes & Watson is 859.0
+
+The average number of followers of a Twitter user tweeting about The Fall of the American Em… is 6.0
+
+The average number of followers of a Twitter user tweeting about Total Dhamaal is 458.6363636363636
+
+The average number of followers of a Twitter user tweeting about Housefull 4 is 624.9
+
+The average number of followers of a Twitter user tweeting about The Matrix is 3142.27
+
+The average number of followers of a Twitter user tweeting about Luce is 13039.14
+
+The average number of followers of a Twitter user tweeting about Chhichhore is 864.91
+
+The average number of followers of a Twitter user tweeting about Official Secrets is 3818.74
+
+The average number of followers of a Twitter user tweeting about Better Days is 1007.91
+
+The average number of followers of a Twitter user tweeting about Badla is 1542.51
+
+The average number of followers of a Twitter user tweeting about The White Crow is 2668.92
+
+The average number of followers of a Twitter user tweeting about Pandas is 824.02
+
+The average number of followers of a Twitter user tweeting about The Other Side of Heaven 2:… is 1843.0
+
+The average number of followers of a Twitter user tweeting about Shoplifters is 1033.89
+
+The average number of followers of a Twitter user tweeting about Wild Rose is 5858.68
+
+The average number of followers of a Twitter user tweeting about Waves is 3971.36
+
+The average number of followers of a Twitter user tweeting about The Aftermath is 2194.32
+
+The average number of followers of a Twitter user tweeting about Western Stars is 3125.71
+
+The average number of followers of a Twitter user tweeting about Red Joan is 20786.1
+
+The average number of followers of a Twitter user tweeting about After the Wedding is 1072.52
+
+The average number of followers of a Twitter user tweeting about Extreme Job is 1751.95
+
+The average number of followers of a Twitter user tweeting about The Kid is 2329.21
+
+The average number of followers of a Twitter user tweeting about Capernaum is 2946.0
+
+The average number of followers of a Twitter user tweeting about Fantastic Fungi is 2758.095238095238
+
+The average number of followers of a Twitter user tweeting about The Wife is 1442.28
+
+The movie National Lampoon's Christma… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about It is 853.94
+
+The average number of followers of a Twitter user tweeting about 1917 is 930.61
+
+The average number of followers of a Twitter user tweeting about Never Look Away is 8140.48
+
+The average number of followers of a Twitter user tweeting about Destroyer is 3189.788888888889
+
+The average number of followers of a Twitter user tweeting about A Hidden Life is 3365.69
+
+The average number of followers of a Twitter user tweeting about Can You Ever Forgive Me? is 1455.72
+
+The average number of followers of a Twitter user tweeting about No Safe Spaces is 1929.22
+
+The average number of followers of a Twitter user tweeting about High Life is 6024.61
+
+The average number of followers of a Twitter user tweeting about All is True is 1656.906976744186
+
+The average number of followers of a Twitter user tweeting about Ben is Back is 3326.5
+
+The movie Ek Ladki Ko Dekah Toh Aisa … did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about PLAYMOBIL is 4546.8
+
+The average number of followers of a Twitter user tweeting about Mortal Engines is 2312.71
+
+The average number of followers of a Twitter user tweeting about The Souvenir is 3206.25
+
+The average number of followers of a Twitter user tweeting about Perfect Strangers is 45112.5
+
+The movie Marianne & Leonard: Words o… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Simmba is 49984.44
+
+The movie RUSH: Cinema Strangiato 2019 did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about The Fighting Preacher is 1769.6666666666667
+
+The average number of followers of a Twitter user tweeting about Metallica & San Francisco S… is 1418.55
+
+The average number of followers of a Twitter user tweeting about Toni Morrison: The Pieces I Am is 1137.111111111111
+
+The average number of followers of a Twitter user tweeting about The Goonies is 3124.45
+
+The average number of followers of a Twitter user tweeting about Jesus is King is 1361.14
+
+The average number of followers of a Twitter user tweeting about Woman at War is 3277.15
+
+The average number of followers of a Twitter user tweeting about The Polar Express is 3367.73
+
+The average number of followers of a Twitter user tweeting about Climax is 2218.8947368421054
+
+The average number of followers of a Twitter user tweeting about Transit is 6741.64
+
+The average number of followers of a Twitter user tweeting about Between Me and My Mind is 1647.68
+
+The average number of followers of a Twitter user tweeting about Elf is 1934.02
+
+The average number of followers of a Twitter user tweeting about Student of the Year 2 is 2605.5
+
+The average number of followers of a Twitter user tweeting about The Church is 4625.65
+
+The movie JONI 75: A Birthday Celebra… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about BlacKkKlansman is 124321.27
+
+The average number of followers of a Twitter user tweeting about David Crosby: Remember My Name is 2291.0416666666665
+
+The movie Bennettâs War did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about More Than Blue is 4835.62
+
+The average number of followers of a Twitter user tweeting about Thank You For Everything is 1313.54
+
+The average number of followers of a Twitter user tweeting about Honeyland is 2279.5
+
+The average number of followers of a Twitter user tweeting about The Captain is 1027.47
+
+The average number of followers of a Twitter user tweeting about Non-Fiction is 6916.66
+
+The movie Whereâs My Roy Cohn? did not have any mentions on Twitter.
+
+The movie Depeche Mode: Spirits in th… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about El Chicano is 28207.15
+
+The movie Raise Hell: The Life and Ti… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about The Grizzlies is 18282.24
+
+The average number of followers of a Twitter user tweeting about Nancy Drew and the Hidden S… is 403.0
+
+The average number of followers of a Twitter user tweeting about The Wizard of Oz is 4754.7
+
+The average number of followers of a Twitter user tweeting about Miles Davis: Birth of the Cool is 5912.938775510204
+
+The average number of followers of a Twitter user tweeting about The Chaperone is 2543.5
+
+The average number of followers of a Twitter user tweeting about Roger Waters Us + Them is 2102.9166666666665
+
+The average number of followers of a Twitter user tweeting about Furie is 2703.32
+
+The average number of followers of a Twitter user tweeting about Bethany Hamilton: Unstoppable is 2291.5
+
+The average number of followers of a Twitter user tweeting about The Public is 1860.16
+
+The average number of followers of a Twitter user tweeting about The Sky is Pink is 1387.2
+
+The average number of followers of a Twitter user tweeting about The Shining is 5576.36
+
+The average number of followers of a Twitter user tweeting about Fiddler: A Miracle of Miracles is 1390.0
+
+The movie Everybodyâs Everything did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Dabangg 3 is 988.72
+
+The movie Grateful Dead Meet-Up at th… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Shadow is 1625.5894736842106
+
+The movie Long Dayâs Journey Into Nig… did not have any mentions on Twitter.
+
+The movie The Spy Behind Home Plate did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Wild Nights With Emily is 1023.6111111111111
+
+The average number of followers of a Twitter user tweeting about Birds of Passage is 2503.306666666667
+
+The average number of followers of a Twitter user tweeting about Tel Aviv on Fire is 666.0
+
+The average number of followers of a Twitter user tweeting about Widows is 5256.36
+
+The average number of followers of a Twitter user tweeting about The Climbers is 2568.6
+
+The average number of followers of a Twitter user tweeting about The Great Alaskan Race is 11518.5
+
+The average number of followers of a Twitter user tweeting about Exit is 5820.38
+
+The average number of followers of a Twitter user tweeting about CatVideoFest is 17559.5
+
+The average number of followers of a Twitter user tweeting about Cruel Intentions is 3598.49
+
+The average number of followers of a Twitter user tweeting about Panipat is 2836.16
+
+The average number of followers of a Twitter user tweeting about Christmas Jars is 2279.269230769231
+
+The average number of followers of a Twitter user tweeting about Dear Comrade is 1855.12
+
+The movie Les MisÃ©rables - The Staged… did not have any mentions on Twitter.
+
+The average number of followers of a Twitter user tweeting about Teen Spirit is 3142.78
+
+The average number of followers of a Twitter user tweeting about De De Pyaar De is 724.55
+
+The average number of followers of a Twitter user tweeting about En Brazos de un Asesino is 35488.305555555555
+
+Top Five Gross Per Favorite From Twitter on the Top 300 Grossing Movies Reported in the Top Grossing Movies of 2019
+======================================================
+
+1. From the Top Grossing Movies of 2019, "Avengers: Endgame" gross per 1 favorite on Twitter is $95374777.77777778
+2. From the Top Grossing Movies of 2019, "Little" gross per 1 favorite on Twitter is $40860481.0
+3. From the Top Grossing Movies of 2019, "Yesterday" gross per 1 favorite on Twitter is $24428883.333333332
+4. From the Top Grossing Movies of 2019, "MA" gross per 1 favorite on Twitter is $22948014.0
+5. From the Top Grossing Movies of 2019, "Harriet" gross per 1 favorite on Twitter is $21273850.0
